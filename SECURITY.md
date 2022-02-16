@@ -1,4 +1,7 @@
 ## Reporting a Vulnerability
 
-Contact: security@roxxum.tech
-Expires: 2022-12-31T13:59:00.000Z
+We take security reports very seriously!
+Please report them by creating a Draft Security Advisory on this repo.
+
+
+For any questions please contact: security@roxxum.tech
