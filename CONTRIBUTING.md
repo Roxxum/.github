@@ -21,7 +21,7 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 6. Click that pull request button!
 
 ## Use a consistent coding style
-See the docs/CODING_STANDARDS.md for specific guidelines on code style used by @Roxxum/core-devs.
+See the `docs/CODING_STANDARDS.md` for specific guidelines on code style used by @Roxxum/core-devs.
 For anything not specified, generally following accepted community standards is a good place to start.
 
 ## Make sure you understand the licenses used by Roxxum
